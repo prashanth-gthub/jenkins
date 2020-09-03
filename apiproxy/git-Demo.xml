@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="git-Demo">
+<APIProxy revision="2" name="git-Demo">
     <Basepaths>/git-demo</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1599096860728</CreatedAt>
+    <CreatedAt>1599097593583</CreatedAt>
     <CreatedBy>prashanthbajjuri@gmail.com</CreatedBy>
     <Description></Description>
     <DisplayName>git-Demo</DisplayName>
-    <LastModifiedAt>1599096860728</LastModifiedAt>
+    <LastModifiedAt>1599097593583</LastModifiedAt>
     <LastModifiedBy>prashanthbajjuri@gmail.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:b05e3b1041d97ae2e23f3fe011e5880b0fe667720e43df3e8ff44b46e6de6c44a01e2b1a9796554f04083764d11ddf0367b53936cbda44295d775a4d12116e7a</ManifestVersion>
-    <Policies/>
+    <ManifestVersion>SHA-512:27d7b16cf196fc99e2a740db506d662e4fd0777d829790f0f501ebe8c8be55bc7065efd95b281f0a71191281a9d3f5a2fb461194db9c42270701573ae0cf50fc</ManifestVersion>
+    <Policies>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
